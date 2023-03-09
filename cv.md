@@ -16,7 +16,7 @@ My strengths are perseverance; achieve everything to the end no matter what it c
 
 # Code examples
 The code below I wrote wtih *python* to solve the problem from codewars\
-**6 kyu** **Two Sum**
+**6 kyu** **(Two Sum)**
 ### DESCRIPTION:
 Write a function that takes an array of numbers (integers for the tests) and a target number. It should find two different items in the array that, when added together, give the target value. The indices of these items should then be returned in a tuple / list (depending on your language) like so: (index1, index2).
 ```
@@ -30,10 +30,15 @@ def two_sum(numbers, target):
 # Work experience
 Now a learn course The Odin Project and I already finished some projects. Below project from The Odin Project which I did.
 
-## Rock Paper Scissors
+### Rock Paper Scissors
 This project is classic "rock paper sciissors", but instead of the playing with human, your game is goiind to play against the computer. We should choose one of the 'rock', 'paper' or 'scissors' each round and computer randomly return either 'rock', 'paper' or 'scissors'. The goal is win 5 rounds.
 
-Project link: [GitHub]<https://github.com/Bauyrsaq/rock-paper-scissors>
+Project link: [GitHub](https://github.com/Bauyrsaq/rock-paper-scissors)
+
+### Etch-A-Sketch
+This project is a browser version of something between a sketchpad and an Etch-A-Sketch. With this notebook, you can draw pixel art. If you want, you can change the size of the grid on which you will draw. You can draw with any shade of color, and there is also a button with random brush colors.
+
+Project link: [GitHub](https://github.com/Bauyrsaq/etch-a-sketch)
 
 # Education
 * Secondary education
