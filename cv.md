@@ -1,6 +1,6 @@
 # Talap Ali
 
-**Email:** talapali20@gmail.com
+**Email:** talapali20@gmail.com\
 **Phone:** +7 747 \*** \****
 
 # About myself
@@ -15,7 +15,7 @@ My strengths are perseverance; achieve everything to the end no matter what it c
 * c++
 
 # Code examples
-The code below I wrote wtih *python* to solve the problem from codewars
+The code below I wrote wtih *python* to solve the problem from codewars\
 **6 kyu** **Two Sum**
 ### DESCRIPTION:
 Write a function that takes an array of numbers (integers for the tests) and a target number. It should find two different items in the array that, when added together, give the target value. The indices of these items should then be returned in a tuple / list (depending on your language) like so: (index1, index2).
@@ -26,3 +26,20 @@ def two_sum(numbers, target):
             if numbers[i] + numbers[j] == target:
                 return [i, j]
 ```
+
+# Work experience
+Now a learn course The Odin Project and I already finished some projects. Below project from The Odin Project which I did.
+
+## Rock Paper Scissors
+This project is classic "rock paper sciissors", but instead of the playing with human, your game is goiind to play against the computer. We should choose one of the 'rock', 'paper' or 'scissors' each round and computer randomly return either 'rock', 'paper' or 'scissors'. The goal is win 5 rounds.
+
+Project link: [GitHub]<https://github.com/Bauyrsaq/rock-paper-scissors>
+
+# Education
+* Secondary education
+* Stepik:
+    * [Python: Basics and Applications](https://stepik.org/course/512/info)
+    * [Programming in Python](https://stepik.org/course/67/info)
+
+# English
+A2-B1
