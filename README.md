@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Bauyrsaq.github.io/rsschool-cv/
