@@ -2,7 +2,7 @@
 
 ## Contact information
 
-**Phone number**: +7 747 777 7777
+**Phone number**: +7 747 777 7777\
 **Email**: talapali20@gmail.com
 
 ## Self-introduction
@@ -21,9 +21,9 @@ I am a student who wants to become a software developer. I have tried some of th
 
 ## Code examples (code from my Codewars account)
 
-*Kata*: 6
-*Name of the task*: Decode the Morse code
-*Link to the task*: [link](https://www.codewars.com/kata/54b724efac3d5402db00065e)
+Kata: *6*\
+Name of the task: *Decode the Morse code*\
+Link to the task: [Codewars](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 
 ```
 decodeMorse = function(morseCode){
@@ -43,11 +43,11 @@ decodeMorse = function(morseCode){
 
 ## Work experience
 
-*Name of the project*: Rock Paper Scissors
-GitHub link: [link](https://github.com/Bauyrsaq/rock-paper-scissors)
+Name of the project: *Rock Paper Scissors*\
+GitHub link: [GitHub](https://github.com/Bauyrsaq/rock-paper-scissors)
 
-*Name of the project*: Landing page
-GitHub link: [link](https://github.com/Bauyrsaq/Landing-Page)
+Name of the project: *Landing page*\
+GitHub link: [GitHub](https://github.com/Bauyrsaq/Landing-Page)
 
 ## Education
 
