@@ -3,9 +3,120 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="./img/cv.png" type="image/png" sizes="64x64">
+  <link rel="stylesheet" href="style.css">
   <title>CV</title>
 </head>
 <body>
+  <header class="header">
+    <nav class="header-menu">
+      <ul>
+        <li><a href="#about">About me</a></li>
+        <li><a href="#contacts">Contacts</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#code">Code example</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#english">English</a></li>
+      </ul>
+    </nav>
+  </header>
 
+  <main class="main">
+    <div class="container">
+      <div class="profile">
+        <img src="./img/usui.jpg" alt="Profile photo">
+        <h1>Ali Talap</h1>
+      </div>
+
+      <section id="about" class="section">
+        <h2 class="title">About</h2>
+        <p>I'm trying to become the best version of myself. I'm a hardworking person who seeks knowledge and trying new things out.</p>
+      </section>
+
+      <section id="contacts" class="section">
+        <h2 class="title">Contacts</h2>
+        <p>Phone: +7 (777) 777 77-77</p>
+        <p>Email: talapali20@gmail.com</p>
+      </section>
+
+      <section id="skills" class="section">
+        <h2 class="title">Skills</h2>
+        <ul>
+          <li>JavaScript</li>
+          <li>C++</li>
+          <li>Python</li>
+          <li>HTML</li>
+          <li>CSS</li>
+        </ul>
+      </section>
+
+      <section id="code" class="section">
+        <h2 class="title">Code example</h2>
+        <p>Codewars: <a href="https://www.codewars.com/kata/54b724efac3d5402db00065e" target="_blank">(6 kyu) Decode the Morse code</a></p>
+        <p>Language: JavaScript</p>
+        <p>Code:</p>
+        <pre>
+          <code>
+decodeMorse = function(morseCode){
+  let decode = '';
+  morseCode = morseCode.trim().split(' ');
+  for (let i = 0; i &lt; morseCode.length; i++) {
+    if (morseCode[i] === '') {
+      decode += ' ';
+      i++;
+    } else {
+      decode += MORSE_CODE[morseCode[i]];
+    }
+  }
+  return decode;
+}   
+          </code>
+        </pre>
+      </section>
+
+      <section id="experience" class="section">
+        <h2 class="title">Experience</h2>
+        <ul>
+          <li>Project: <a href="https://github.com/Bauyrsaq/rock-paper-scissors" target="_blank">Rock-Paper-Scissors</a></li>
+          <li>Technologies: JavaScript, HTMl, CSS</li>
+          <li>Description: It's a game rock-paper-scissors, but instead of human, you're up against computer itself. The winner is decided when someone gets 5 points.</li>
+        </ul>
+
+        <ul>
+          <li>Project: <a href="https://github.com/Bauyrsaq/anime_culture" target="_blank">Anime culture</a></li>
+          <li>Technologies: JavaScript, Python, Sqlite, HTMl, CSS</li>
+          <li>Description: Website about anime and manga. You can find information about titles with external links.</li>
+        </ul>
+      </section>
+
+      <section id="education" class="section">
+        <h2 class="title">Education</h2>
+        <ul>
+          <li>Bachelor's degree in Information systems and technologies</li>
+          <li><a href="https://stepik.org/course/67/syllabus" target="_blank">Python programming</a></li>
+          <li><a href="https://stepik.org/course/512/syllabus" target="_blank">Python: basics and applications</a></li>
+        </ul>
+      </section>
+
+      <section id="english" class="section">
+        <h2 class="title">English</h2>
+        <p>Upper-intermediate (B2)</p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container container-footer">
+      <div class="author">
+        <p><a href="https://github.com/Bauyrsaq" target="_blank">GitHub</a></p>
+        <p>© 2025</p>
+      </div>
+
+      <div>
+        <a href="https://rs.school/courses/javascript-ru" target="_blank"><img src="./img/rs-school-logo.svg" alt="RS School logo" height="40"></a>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>
