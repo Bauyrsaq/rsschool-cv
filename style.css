@@ -36,3 +36,13 @@ a {
 h1 {
   text-align: center;
 }
+
+.container-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-footer .author {
+  display: flex;
+  gap: 0.5rem;
+}
