@@ -14,7 +14,7 @@
         <li><a href="#about">About me</a></li>
         <li><a href="#contacts">Contacts</a></li>
         <li><a href="#skills">Skills</a></li>
-        <li><a href="#example">Code example</a></li>
+        <li><a href="#code">Code example</a></li>
         <li><a href="#experience">Experience</a></li>
         <li><a href="#education">Education</a></li>
         <li><a href="#english">English</a></li>
@@ -46,6 +46,30 @@
           <li>HTML</li>
           <li>CSS</li>
         </ul>
+      </section>
+
+      <section id="code" class="section">
+        <h2 class="title">Code example</h2>
+        <p>Codewars: <a href="https://www.codewars.com/kata/54b724efac3d5402db00065e" target="_blank">(6 kyu) Decode the Morse code</a></p>
+        <p>Language: JavaScript</p>
+        <p>Code:</p>
+        <pre>
+          <code>
+decodeMorse = function(morseCode){
+  let decode = '';
+  morseCode = morseCode.trim().split(' ');
+  for (let i = 0; i < morseCode.length; i++) {
+    if (morseCode[i] === '') {
+      decode += ' ';
+      i++;
+    } else {
+      decode += MORSE_CODE[morseCode[i]];
+    }
+  }
+  return decode;
+}   
+          </code>
+        </pre>
       </section>
 
     </div>
