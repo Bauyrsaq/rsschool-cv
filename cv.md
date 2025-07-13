@@ -15,8 +15,8 @@ I'm trying to become the best version of myself. I'm a hardworking person who se
 * CSS
 
 ## Code examples
-**Codewars:** [(6 kyu) Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
-**Language:** *JavaScript*
+**Codewars:** [(6 kyu) Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)  
+**Language:** *JavaScript*  
 **Code:**
 ```
 decodeMorse = function(morseCode){
@@ -35,12 +35,12 @@ decodeMorse = function(morseCode){
 ```
 
 ## Experience
-**Project:** [Rock-Paper-Scissors](https://github.com/Bauyrsaq/rock-paper-scissors)
-**Technologies:** *JavaScript*, *HTMl*, *CSS*
+**Project:** [Rock-Paper-Scissors](https://github.com/Bauyrsaq/rock-paper-scissors)  
+**Technologies:** *JavaScript*, *HTMl*, *CSS*  
 **Description:** It's a game rock-paper-scissors, but instead of human, you're up against computer itself. The winner is decided when someone gets 5 points.
 
-**Project:** [Anime culture](https://github.com/Bauyrsaq/anime_culture)
-**Technologies:** *JavaScript*, *Python*, *Sqlite*, *HTML*, *CSS*
+**Project:** [Anime culture](https://github.com/Bauyrsaq/anime_culture)  
+**Technologies:** *JavaScript*, *Python*, *Sqlite*, *HTML*, *CSS*  
 **Description:** Website about anime and manga. You can find information about titles with external links.
 
 ## Education
