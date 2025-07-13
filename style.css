@@ -27,3 +27,12 @@ a {
 .header-menu a {
   color: #000;
 }
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
